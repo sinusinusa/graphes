@@ -1,0 +1,9 @@
+C:\Users\drora\source\repos\task5graphics\task5graphics\obj\Debug\task5graphics.csprojAssemblyReference.cache
+C:\Users\drora\source\repos\task5graphics\task5graphics\obj\Debug\task5graphics.Form1.resources
+C:\Users\drora\source\repos\task5graphics\task5graphics\obj\Debug\task5graphics.Properties.Resources.resources
+C:\Users\drora\source\repos\task5graphics\task5graphics\obj\Debug\task5graphics.csproj.GenerateResource.cache
+C:\Users\drora\source\repos\task5graphics\task5graphics\bin\Debug\task5graphics.exe.config
+C:\Users\drora\source\repos\task5graphics\task5graphics\bin\Debug\task5graphics.exe
+C:\Users\drora\source\repos\task5graphics\task5graphics\bin\Debug\task5graphics.pdb
+C:\Users\drora\source\repos\task5graphics\task5graphics\obj\Debug\task5graphics.exe
+C:\Users\drora\source\repos\task5graphics\task5graphics\obj\Debug\task5graphics.pdb
